@@ -51,7 +51,6 @@ class Order:
 
 
 if __name__ == "__main__":
-    # استخدام الأنواع المختلفة من الدفع
     credit_card = CreditCard()
     paypal = PayPal()
 
